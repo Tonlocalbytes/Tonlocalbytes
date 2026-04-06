@@ -1,8 +1,6 @@
 # Hi there, I'm Ton! 👋
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=27F76B&width=435&lines=Digital+Business+Technology+Student;Minecraft+Resource+Pack+Creator;Arch+Linux+Enthusiast" alt="Typing SVG" /></a>
 
-<img src="ใส่ลิงก์รูปภาพหรือGIFตรงนี้" width="100%" alt="Banner" />
-
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2Rmd3VpcGVyd2Y1OGRrOHp3cHF3ZGwxYmtpZW10Znd1NmpzYTl6NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/NVxt4fhn5NZ4A2D29G/giphy.gif" width="800" />
 </p>
