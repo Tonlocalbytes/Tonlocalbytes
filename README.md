@@ -1,7 +1,7 @@
 # Hi there, I'm Ton! 👋
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=27F76B&width=435&lines=Digital+Business+Technology+Student;Minecraft+Resource+Pack+Creator;Arch+Linux+Enthusiast" alt="Typing SVG" /></a>
 
-I'm a student currently diving into **Digital Business Technology**, with a strong passion for gaming, modding, and system customization. Whether I'm surviving Hardcore mode or tweaking my OS, I love exploring how things work under the hood.
+I'm a student currently diving into **Digital Business Technology**, with a strong passion for gaming, modding, and system customization. Whether tweaking my OS, I love exploring how things work under the hood.
 
 ### 🌟 About Me
 - 🎓 I’m currently studying Digital Business Technology.
