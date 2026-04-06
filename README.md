@@ -5,8 +5,7 @@ I'm a student currently diving into **Digital Business Technology**, with a stro
 
 ### 🌟 About Me
 - 🎓 I’m currently studying Digital Business Technology.
-- 📦 I maintain and update Minecraft Resource & Sound Packs (Check them out on Modrinth / CurseForge).
-- ☕ I occasionally write Java programs, like automation tools to speed up my video editing workflow.
+- 📦 I maintain and update Minecraft Resource (Check them out on Modrinth / CurseForge).
 - 🐧 Daily driving **Arch Linux** (KDE Plasma) for my main setup.
 - 🎮 **Fun fact:** I'm a huge fan of Danganronpa & Resident Evil, and I absolutely prefer playing games with a controller over a keyboard and mouse!
 
@@ -15,19 +14,10 @@ I'm a student currently diving into **Digital Business Technology**, with a stro
 ### 🛠️ Tech Stack & Tools
 
 <p align="left">
-  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
   <img src="https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Arch Linux" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/Adobe%20Photoshop-31A8FF?style=for-the-badge&logo=Adobe%20Photoshop&logoColor=black" alt="Photoshop" />
   <img src="https://img.shields.io/badge/Kdenlive-83b8ec?style=for-the-badge&logo=kdenlive&logoColor=white" alt="Kdenlive" />
-</p>
-
----
-
-### 📊 GitHub Stats
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Tonlocalbytes&show_icons=true&theme=tokyonight" alt="Tonlocalbytes's GitHub stats" />
 </p>
 
 ---
